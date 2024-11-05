@@ -479,7 +479,7 @@ main {
   color: var(--light-gray);
   font-size: 15px;
   padding: 20px 7px;
-  font-weight: 400px;
+  font-weight: 600;
   transition: color var(--transition-1);
 }
 
