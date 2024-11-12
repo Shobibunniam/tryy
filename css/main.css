@@ -2924,7 +2924,7 @@ form textarea:required:valid {
   margin: 0 auto;
   padding-top: 1.5rem;
   padding-bottom: 6rem;
-  z-index: 9;
+  z-index: 4;
   -webkit-transform-origin: top left;
      -moz-transform-origin: top left;
       -ms-transform-origin: top left;
