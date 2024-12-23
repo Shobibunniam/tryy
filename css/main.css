@@ -2504,7 +2504,7 @@ form textarea:required:valid {
 /* ------------------------------------------------*/
 /* Blocks Common Start */
 /* ------------------------------------------------*/
-.content {
+/* .content {
   position: relative;
   width: 100%;
   min-width: 360px;
@@ -2529,7 +2529,7 @@ form textarea:required:valid {
   .content {
     padding-left: 500px;
   }
-}
+} */
 
 .content__background {
   position: absolute;
